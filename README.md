@@ -1,4 +1,4 @@
-# checkrefs-batch
+# Batch Reference Checker
 
 Batch reference checker for academic PDFs. Extracts references from PDF papers, verifies them against CrossRef and arXiv APIs, checks citation formatting consistency, and generates markdown + CSV reports.
 
